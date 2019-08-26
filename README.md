@@ -19,7 +19,7 @@
 - "redux": "^4.0.4"
 
 # Functionality
--This application show the implemantation of Graph QL by using Apollo Client. It also has implementation of Redux to store data after calling the graph api.
+-This application show the implemantation of Graph QL by using Apollo Client in React Native. It also has implementation of Redux to store data after calling the graph ql api.
 
 # Setup for iOS
 - Clone the project 
