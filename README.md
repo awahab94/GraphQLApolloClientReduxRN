@@ -2,6 +2,14 @@
 
 # Application
 
+### You will need:
+1. [Node](https://nodejs.org/en/)
+2. [Yarn](https://yarnpkg.com/en/)
+3. [React Native CLI](https://facebook.github.io/react-native/docs/getting-started.html)
+4. [xcode](https://developer.apple.com/xcode/)
+5. [Cocoapods](https://cocoapods.org/)
+4. [Android studio](https://developer.android.com/studio)
+
 # Functionality
 - This application show the implemantation of Graph QL by using Apollo Client in React Native. It also has implementation of Redux to store data after calling the graph ql api.
 
